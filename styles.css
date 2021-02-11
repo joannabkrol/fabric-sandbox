@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  padding: 30px;
+  font-size: 14px;
+  font-family: sans-serif;
+  color: #000;
+  background-color: #eee;
+}
+.canvas-container {
+  display: flex;
+  flex-direction: column;
+}
+#canvas {
+  background-color: rgb(253, 248, 232);
+  border: 5px solid #333;
+}
+
+#canvas2 {
+  background-color: rgb(253, 248, 232);
+  border: 5px solid #333;
+}
+
+#canvas3 {
+  background-color: rgb(253, 248, 232);
+  border: 5px solid #333;
+}
+
+#canvas4 {
+  background-color: rgb(253, 248, 232);
+  border: 5px solid #333;
+}
+
+#canvas5 {
+  background-color: rgb(253, 248, 232);
+  border: 5px solid #333;
+}
+
+#girl {
+  display: none;
+}
